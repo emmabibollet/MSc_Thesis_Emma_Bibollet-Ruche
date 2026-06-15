@@ -1,4 +1,4 @@
-For any questions, please contact me at emma@bibollet.fr
+This GitHub contains the Python code used for my MSc Thesis titled "Wing Flutter Control Using Passive Devices". The final report is included. For any questions, please contact me at emma@bibollet.fr
 
 MAIN: This is the one you want to open :)
 => Linear stability analysis execution file: MAIN_LINEAR_STABILITY.py
